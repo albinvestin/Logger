@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Logger</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_removeFromLog">Remove</string>
+    <string name="button_addToLog">Add</string>
+    <string name="hint_logView">Log</string>
+    <string name="key_totalLog">com.example.logger.total_log_key</string>
+    <string name="btn_AddNewButton">New Button</string>
+    <string name="editText_NewButtonName">New button name</string>
+    <string name="editText_NewButtonValue">Button value</string>
+    <string name="button_RemoveButton">Remove button</string>
+</resources>
